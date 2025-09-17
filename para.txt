@@ -1,0 +1,1 @@
+      I created a palindrome finder using HTML, CSS, and JavaScript, where users can input text to check if it reads the same forward and backward. The HTML structures the input and output, CSS styles the interface, and JavaScript handles the palindrome logic.
